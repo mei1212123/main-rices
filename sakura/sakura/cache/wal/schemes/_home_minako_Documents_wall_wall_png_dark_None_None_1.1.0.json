@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/minako/Documents/wall/wall.png",
+    "alpha": "100",
+    "special": {
+        "background": "#060911",
+        "foreground": "#c4cddb",
+        "cursor": "#c4cddb"
+    },
+    "colors": {
+        "color0": "#060911",
+        "color1": "#A17460",
+        "color2": "#345588",
+        "color3": "#61708B",
+        "color4": "#7888A1",
+        "color5": "#7C98C2",
+        "color6": "#8C99AE",
+        "color7": "#c4cddb",
+        "color8": "#898f99",
+        "color9": "#A17460",
+        "color10": "#345588",
+        "color11": "#61708B",
+        "color12": "#7888A1",
+        "color13": "#7C98C2",
+        "color14": "#8C99AE",
+        "color15": "#c4cddb"
+    }
+}

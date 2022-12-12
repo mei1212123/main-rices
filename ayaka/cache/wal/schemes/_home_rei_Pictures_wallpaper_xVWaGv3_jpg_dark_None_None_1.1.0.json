@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/rei/Pictures/wallpaper/xVWaGv3.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0e0f1e",
+        "foreground": "#85c4e6",
+        "cursor": "#85c4e6"
+    },
+    "colors": {
+        "color0": "#0e0f1e",
+        "color1": "#B02354",
+        "color2": "#063589",
+        "color3": "#2D328D",
+        "color4": "#0A51A1",
+        "color5": "#4550A9",
+        "color6": "#AD5E98",
+        "color7": "#85c4e6",
+        "color8": "#5d89a1",
+        "color9": "#B02354",
+        "color10": "#063589",
+        "color11": "#2D328D",
+        "color12": "#0A51A1",
+        "color13": "#4550A9",
+        "color14": "#AD5E98",
+        "color15": "#85c4e6"
+    }
+}

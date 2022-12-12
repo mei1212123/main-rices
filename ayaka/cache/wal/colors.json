@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/minako/Pictures/wallpaper/02LtPuZJ_4x.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#211818",
+        "foreground": "#eee6e7",
+        "cursor": "#eee6e7"
+    },
+    "colors": {
+        "color0": "#211818",
+        "color1": "#CEB0B2",
+        "color2": "#D8C1BE",
+        "color3": "#D8BEC1",
+        "color4": "#E1BEC2",
+        "color5": "#DCC5C7",
+        "color6": "#E6D2D3",
+        "color7": "#eee6e7",
+        "color8": "#a6a1a1",
+        "color9": "#CEB0B2",
+        "color10": "#D8C1BE",
+        "color11": "#D8BEC1",
+        "color12": "#E1BEC2",
+        "color13": "#DCC5C7",
+        "color14": "#E6D2D3",
+        "color15": "#eee6e7"
+    }
+}
