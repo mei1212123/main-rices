@@ -6,3 +6,7 @@ sudo pacman -S ttf-baekmuk ttf-fira-code ttf-fira-sans ttf-fira-mono ttf-font-aw
 
 # nvidia crap 
 sudo pacman -S --needed nvidia-dkms nvidia-utils lib32-nvidia-utils nvidia-settings vulkan-icd-loader lib32-vulkan-icd-loader
+
+# other important things: 
+sudo pacman -S i3 alacritty polybar lxappearance lxsession pcmanfm
+yay/paru -S matcha-gtk-theme papirus-icon-theme
