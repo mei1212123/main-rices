@@ -8,5 +8,5 @@ a complation of all of my rices
 - sudo pacman -S nvidia-dkms nvidia-utils lib32-nvidia-utils nvidia-settings vulkan-icd-loader lib32-vulkan-icd-loader
 
 # other important things: 
-- sudo pacman -S i3 alacritty polybar lxappearance lxsession pcmanfm
+- sudo pacman -S i3 alacritty polybar lxappearance lxsession pcmanfm nitrogen sxiv
 - yay/paru -S matcha-gtk-theme papirus-icon-theme
