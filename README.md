@@ -1,7 +1,7 @@
 # rices
 a complation of all of my rices 
 
-#basic fonts 
+# basic fonts 
 - sudo pacman -S gsfonts sdl_ttf ttf-bitstream-vera ttf-dejavu ttf-liberation xorg-fonts-type1
 
 # installation instructions for fonts 
