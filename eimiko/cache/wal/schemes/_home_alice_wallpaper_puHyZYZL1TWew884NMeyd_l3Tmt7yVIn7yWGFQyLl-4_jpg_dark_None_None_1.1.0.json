@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/alice/wallpaper/puHyZYZL1TWew884NMeyd_l3Tmt7yVIn7yWGFQyLl-4.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#2e2421",
+        "foreground": "#e0d8d8",
+        "cursor": "#e0d8d8"
+    },
+    "colors": {
+        "color0": "#2e2421",
+        "color1": "#847D84",
+        "color2": "#698CA6",
+        "color3": "#B49097",
+        "color4": "#9E9BAA",
+        "color5": "#CCA5A5",
+        "color6": "#A9B1C8",
+        "color7": "#e0d8d8",
+        "color8": "#9c9797",
+        "color9": "#847D84",
+        "color10": "#698CA6",
+        "color11": "#B49097",
+        "color12": "#9E9BAA",
+        "color13": "#CCA5A5",
+        "color14": "#A9B1C8",
+        "color15": "#e0d8d8"
+    }
+}

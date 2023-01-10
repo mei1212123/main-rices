@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/rei/wallpaper/34844544_p0 (1).png",
+    "alpha": "100",
+    "special": {
+        "background": "#0b0b10",
+        "foreground": "#dac5c9",
+        "cursor": "#dac5c9"
+    },
+    "colors": {
+        "color0": "#0b0b10",
+        "color1": "#5F5067",
+        "color2": "#9C596E",
+        "color3": "#BB5065",
+        "color4": "#D29677",
+        "color5": "#666989",
+        "color6": "#B3748B",
+        "color7": "#dac5c9",
+        "color8": "#98898c",
+        "color9": "#5F5067",
+        "color10": "#9C596E",
+        "color11": "#BB5065",
+        "color12": "#D29677",
+        "color13": "#666989",
+        "color14": "#B3748B",
+        "color15": "#dac5c9"
+    }
+}

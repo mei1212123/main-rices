@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/mei/Pictures/wallpaper/raiden-shogun-yae-miko-genshin-impact-0-hd-wallpaper-1920x1080-uhdpaper.com-645.1_b.jpg"
+let background = "#23101c"
+let foreground = "#ebe3e6"
+let cursor     = "#ebe3e6"
+
+" Colors
+let color0  = "#23101c"
+let color1  = "#C47597"
+let color2  = "#B38BA7"
+let color3  = "#DDA2AA"
+let color4  = "#D2ABC1"
+let color5  = "#DFB0CB"
+let color6  = "#F0CFD1"
+let color7  = "#ebe3e6"
+let color8  = "#a49ea1"
+let color9  = "#C47597"
+let color10 = "#B38BA7"
+let color11 = "#DDA2AA"
+let color12 = "#D2ABC1"
+let color13 = "#DFB0CB"
+let color14 = "#F0CFD1"
+let color15 = "#ebe3e6"
