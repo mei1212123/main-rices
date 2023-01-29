@@ -15,13 +15,13 @@ sudo pacman -S nvidia-dkms nvidia-utils lib32-nvidia-utils nvidia-settings vulka
 ```
 # other important things: 
 ```
-sudo pacman -S i3 alacritty polybar lxappearance lxsession pcmanfm nitrogen sxiv python-psutil
+sudo pacman -S i3 alacritty polybar lxappearance lxsession pcmanfm nitrogen sxiv python-psutil papirus-icon-theme
 ```
 CMD for yay: 
 ```
-yay -S matcha-gtk-theme papirus-icon-theme autotiling
+yay -S matcha-gtk-theme autotiling
 ```
 CMD for paru:
 ```
-paru -S matcha-gtk-theme papirus-icon theme autotiling
+paru -S matcha-gtk-theme autotiling
 ```
