@@ -7,7 +7,7 @@ sudo pacman -S gsfonts sdl_ttf ttf-bitstream-vera ttf-dejavu ttf-liberation xorg
 ```
 # installation instructions for fonts 
 ```
-sudo pacman -S ttf-baekmuk ttf-fira-code ttf-fira-sans ttf-fira-mono ttf-font-awesome ttf-joypixels ttf-sarasa-gothic ttf-sazanami ttf-hanazono ttf-nerd-fonts-symbols-2048-em ttf-nerd-fonts-symbols-common noto-fonts noto-fonts-cjk 
+sudo pacman -S ttf-fira-code ttf-fira-sans ttf-fira-mono ttf-font-awesome ttf-joypixels ttf-nerd-fonts-symbols-2048-em ttf-nerd-fonts-symbols-common noto-fonts noto-fonts-cjk 
 ```
 # nvidia pkgs: 
 ```
