@@ -15,12 +15,12 @@ sudo pacman -S nvidia-dkms nvidia-utils lib32-nvidia-utils nvidia-settings vulka
 ```
 # AMD pkgs:
 ```
-sudo pacman -S xf86-video-amdgpu vulkan-radeon libva-mesa-driver mesa-vdpau
+sudo pacman -S xf86-video-amdgpu vulkan-radeon libva-mesa-driver mesa-vdpau lib32-vulkan-radeon vulkan-icd-loader lib32-vulkan-icd-loader
 ```
 
 # other important things: 
 ```
-sudo pacman -S i3 alacritty polybar lxappearance lxsession pcmanfm nitrogen sxiv python-psutil papirus-icon-theme
+sudo pacman -S i3 alacritty polybar lxappearance lxsession pcmanfm nitrogen sxiv python-psutil papirus-icon-theme arandr dunst
 ```
 CMD for yay: 
 ```
