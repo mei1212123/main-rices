@@ -15,7 +15,7 @@ sudo pacman -S nvidia-dkms nvidia-utils lib32-nvidia-utils nvidia-settings vulka
 ```
 # AMD pkgs:
 ```
-sudo pacman -S xf86-video-amdgpu vulkan-radeon libva-mesa-driver mesa-vdpau lib32-vulkan-radeon vulkan-icd-loader lib32-vulkan-icd-loader
+sudo pacman -S xf86-video-amdgpu amdvlk libva-mesa-driver mesa-vdpau lib32-amdvlk vulkan-icd-loader lib32-vulkan-icd-loader
 ```
 
 # other important things: 
