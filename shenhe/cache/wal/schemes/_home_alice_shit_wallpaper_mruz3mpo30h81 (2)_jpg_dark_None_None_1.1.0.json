@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/alice/shit/wallpaper/mruz3mpo30h81 (2).jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#211214",
+        "foreground": "#dddbea",
+        "cursor": "#dddbea"
+    },
+    "colors": {
+        "color0": "#211214",
+        "color1": "#D86766",
+        "color2": "#C3837E",
+        "color3": "#BEA6BF",
+        "color4": "#E09C9E",
+        "color5": "#C8BBDA",
+        "color6": "#E4D3DF",
+        "color7": "#dddbea",
+        "color8": "#9a99a3",
+        "color9": "#D86766",
+        "color10": "#C3837E",
+        "color11": "#BEA6BF",
+        "color12": "#E09C9E",
+        "color13": "#C8BBDA",
+        "color14": "#E4D3DF",
+        "color15": "#dddbea"
+    }
+}

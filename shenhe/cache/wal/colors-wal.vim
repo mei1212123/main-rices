@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/mei/Pictures/wallpaper/__shenhe_genshin_impact_drawn_by_mento__b90af792de2d6d6a451a2da1d96137f5.jpg"
+let background = "#191a1f"
+let foreground = "#e5e7e8"
+let cursor     = "#e5e7e8"
+
+" Colors
+let color0  = "#191a1f"
+let color1  = "#6F7A85"
+let color2  = "#788893"
+let color3  = "#93959A"
+let color4  = "#AFB1B3"
+let color5  = "#C3BFB9"
+let color6  = "#D0D1D3"
+let color7  = "#e5e7e8"
+let color8  = "#a0a1a2"
+let color9  = "#6F7A85"
+let color10 = "#788893"
+let color11 = "#93959A"
+let color12 = "#AFB1B3"
+let color13 = "#C3BFB9"
+let color14 = "#D0D1D3"
+let color15 = "#e5e7e8"
