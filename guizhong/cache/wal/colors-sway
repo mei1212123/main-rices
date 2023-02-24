@@ -1,0 +1,21 @@
+set $wallpaper /home/mei/Pictures/wallpaper/105681177_p0.jpg
+
+set $background #101216
+set $foreground #d1cfdb
+
+set $color0 #101216
+set $color1 #2D5095
+set $color2 #3341AE
+set $color3 #5E6699
+set $color4 #887B96
+set $color5 #728CC4
+set $color6 #9F94A1
+set $color7 #d1cfdb
+set $color8 #929099
+set $color9 #2D5095
+set $color10 #3341AE
+set $color11 #5E6699
+set $color12 #887B96
+set $color13 #728CC4
+set $color14 #9F94A1
+set $color15 #d1cfdb
