@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/alice/wallpaper/KamiLumi.png",
+    "alpha": "100",
+    "special": {
+        "background": "#341e1e",
+        "foreground": "#eae6e5",
+        "cursor": "#eae6e5"
+    },
+    "colors": {
+        "color0": "#341e1e",
+        "color1": "#709AC2",
+        "color2": "#A59CA1",
+        "color3": "#DBAA9A",
+        "color4": "#F0D1A9",
+        "color5": "#A0B9D8",
+        "color6": "#AAC9EC",
+        "color7": "#eae6e5",
+        "color8": "#a3a1a0",
+        "color9": "#709AC2",
+        "color10": "#A59CA1",
+        "color11": "#DBAA9A",
+        "color12": "#F0D1A9",
+        "color13": "#A0B9D8",
+        "color14": "#AAC9EC",
+        "color15": "#eae6e5"
+    }
+}

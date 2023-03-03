@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/gamer/Pictures/2022-02-07_20-12.png",
+    "alpha": "100",
+    "special": {
+        "background": "#150f0f",
+        "foreground": "#cfc4bf",
+        "cursor": "#cfc4bf"
+    },
+    "colors": {
+        "color0": "#150f0f",
+        "color1": "#76675D",
+        "color2": "#857D39",
+        "color3": "#8E7166",
+        "color4": "#97903B",
+        "color5": "#A18777",
+        "color6": "#847A85",
+        "color7": "#cfc4bf",
+        "color8": "#908985",
+        "color9": "#76675D",
+        "color10": "#857D39",
+        "color11": "#8E7166",
+        "color12": "#97903B",
+        "color13": "#A18777",
+        "color14": "#847A85",
+        "color15": "#cfc4bf"
+    }
+}

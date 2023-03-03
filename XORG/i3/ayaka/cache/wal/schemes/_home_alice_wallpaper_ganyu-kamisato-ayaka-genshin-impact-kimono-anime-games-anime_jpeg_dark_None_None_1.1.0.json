@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/alice/wallpaper/ganyu-kamisato-ayaka-genshin-impact-kimono-anime-games-anime.jpeg",
+    "alpha": "100",
+    "special": {
+        "background": "#15070f",
+        "foreground": "#e9e1e4",
+        "cursor": "#e9e1e4"
+    },
+    "colors": {
+        "color0": "#15070f",
+        "color1": "#A67491",
+        "color2": "#A88C97",
+        "color3": "#A293A7",
+        "color4": "#E3A3A8",
+        "color5": "#9FABCF",
+        "color6": "#D7C1C9",
+        "color7": "#e9e1e4",
+        "color8": "#a39d9f",
+        "color9": "#A67491",
+        "color10": "#A88C97",
+        "color11": "#A293A7",
+        "color12": "#E3A3A8",
+        "color13": "#9FABCF",
+        "color14": "#D7C1C9",
+        "color15": "#e9e1e4"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/alice/wallpaper/hu-tao-ghost-genshin-impact-2k-wallpaper-2560x1440-uhdpaper.com-265.1_a.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#160d0d",
+        "foreground": "#ecdfd0",
+        "cursor": "#ecdfd0"
+    },
+    "colors": {
+        "color0": "#160d0d",
+        "color1": "#B05943",
+        "color2": "#9E6A59",
+        "color3": "#BC916F",
+        "color4": "#E49970",
+        "color5": "#65648A",
+        "color6": "#D8AA95",
+        "color7": "#ecdfd0",
+        "color8": "#a59c91",
+        "color9": "#B05943",
+        "color10": "#9E6A59",
+        "color11": "#BC916F",
+        "color12": "#E49970",
+        "color13": "#65648A",
+        "color14": "#D8AA95",
+        "color15": "#ecdfd0"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/alice/wallpaper/__kamisato_ayaka_genshin_impact_drawn_by_rayleigh_scale__bc4fe587af1a0ce8231d7a99d53dda5e.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0b0708",
+        "foreground": "#efdfc0",
+        "cursor": "#efdfc0"
+    },
+    "colors": {
+        "color0": "#0b0708",
+        "color1": "#D2A077",
+        "color2": "#58548D",
+        "color3": "#916F90",
+        "color4": "#7C8198",
+        "color5": "#DBAE90",
+        "color6": "#D5BFBF",
+        "color7": "#efdfc0",
+        "color8": "#a79c86",
+        "color9": "#D2A077",
+        "color10": "#58548D",
+        "color11": "#916F90",
+        "color12": "#7C8198",
+        "color13": "#DBAE90",
+        "color14": "#D5BFBF",
+        "color15": "#efdfc0"
+    }
+}

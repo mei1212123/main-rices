@@ -1,0 +1,10 @@
+#!/usr/bin/python3
+from psutil import cpu_percent
+usage = cpu_percent(interval=1)
+
+if usage >= 50:
+    print("%{F#ccb81f}"f"{usage}%")
+elif usage >= 90:
+    print("%{F#cc3e1f}"f"{usage}%")
+else:
+    print(f"{usage}%")

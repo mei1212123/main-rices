@@ -1,0 +1,21 @@
+set $wallpaper /home/rei/Pictures/wallpaper/wallpaper.jpg
+
+set $background #02131A
+set $foreground #bcb4b9
+
+set $color0 #02131A
+set $color1 #653945
+set $color2 #3C4349
+set $color3 #4C4C53
+set $color4 #695861
+set $color5 #88374A
+set $color6 #985965
+set $color7 #bcb4b9
+set $color8 #837d81
+set $color9 #653945
+set $color10 #3C4349
+set $color11 #4C4C53
+set $color12 #695861
+set $color13 #88374A
+set $color14 #985965
+set $color15 #bcb4b9
