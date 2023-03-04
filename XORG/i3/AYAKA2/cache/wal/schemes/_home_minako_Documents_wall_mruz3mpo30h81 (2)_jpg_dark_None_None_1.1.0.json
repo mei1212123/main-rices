@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/minako/Documents/wall/mruz3mpo30h81 (2).jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#221615",
+        "foreground": "#cdc6c3",
+        "cursor": "#cdc6c3"
+    },
+    "colors": {
+        "color0": "#221615",
+        "color1": "#9E341C",
+        "color2": "#A2512C",
+        "color3": "#C8582A",
+        "color4": "#986E51",
+        "color5": "#B48C63",
+        "color6": "#717685",
+        "color7": "#cdc6c3",
+        "color8": "#8f8a88",
+        "color9": "#9E341C",
+        "color10": "#A2512C",
+        "color11": "#C8582A",
+        "color12": "#986E51",
+        "color13": "#B48C63",
+        "color14": "#717685",
+        "color15": "#cdc6c3"
+    }
+}
