@@ -1,0 +1,21 @@
+set $wallpaper /home/mei/Pictures/wallpaper/95215205_p0.jpg
+
+set $background #16070f
+set $foreground #e9e1e4
+
+set $color0 #16070f
+set $color1 #AC748F
+set $color2 #AA8C96
+set $color3 #A593A6
+set $color4 #E4A2A8
+set $color5 #9FAACF
+set $color6 #D9C1C8
+set $color7 #e9e1e4
+set $color8 #a39d9f
+set $color9 #AC748F
+set $color10 #AA8C96
+set $color11 #A593A6
+set $color12 #E4A2A8
+set $color13 #9FAACF
+set $color14 #D9C1C8
+set $color15 #e9e1e4

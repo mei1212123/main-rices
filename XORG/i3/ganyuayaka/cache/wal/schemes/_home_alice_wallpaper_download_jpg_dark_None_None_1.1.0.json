@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/alice/wallpaper/download.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#170f11",
+        "foreground": "#c0b0c5",
+        "cursor": "#c0b0c5"
+    },
+    "colors": {
+        "color0": "#170f11",
+        "color1": "#AC583B",
+        "color2": "#A26857",
+        "color3": "#BF8A6D",
+        "color4": "#D8936C",
+        "color5": "#3E44A3",
+        "color6": "#685788",
+        "color7": "#c0b0c5",
+        "color8": "#867b89",
+        "color9": "#AC583B",
+        "color10": "#A26857",
+        "color11": "#BF8A6D",
+        "color12": "#D8936C",
+        "color13": "#3E44A3",
+        "color14": "#685788",
+        "color15": "#c0b0c5"
+    }
+}
