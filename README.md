@@ -14,11 +14,11 @@ sudo pacman -S i3 alacritty polybar lxappearance lxsession pcmanfm nitrogen sxiv
 
 CMD for yay: 
 ```
-yay -S matcha-gtk-theme autotiling mcmojave-cursors
+yay -S matcha-gtk-theme autotiling mcmojave-cursors catppuccin-gtk-theme-mocha
 ```
 CMD for paru:
 ```
-paru -S matcha-gtk-theme autotiling mcmojave-cursors
+paru -S matcha-gtk-theme autotiling mcmojave-cursors catppuccin-gtk-theme-mocha
 ```
 
 # nvidia pkgs: 
