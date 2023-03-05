@@ -14,13 +14,19 @@ sudo pacman -S i3 alacritty polybar lxappearance lxsession pcmanfm nitrogen sxiv
 
 CMD for yay: 
 ```
-yay -S matcha-gtk-theme catppuccin-gtk-theme-mocha autotiling mcmojave-cursors 
+yay -S matcha-gtk-theme autotiling mcmojave-cursors 
 ```
 CMD for paru:
 ```
-paru -S matcha-gtk-theme catppuccin-gtk-theme-mocha autotiling mcmojave-cursors 
+paru -S matcha-gtk-theme autotiling mcmojave-cursors 
 ```
-
+CMDS for the AYAKA2 rice
+```
+yay -S catppuccin-gtk-theme-mocha autotiling mcmojave-cursors 
+```
+```
+paru -S catppuccin-gtk-theme-mocha autotiling mcmojave-cursors 
+```
 # nvidia pkgs: 
 ```
 sudo pacman -S nvidia-dkms nvidia-utils lib32-nvidia-utils nvidia-settings vulkan-icd-loader lib32-vulkan-icd-loader
