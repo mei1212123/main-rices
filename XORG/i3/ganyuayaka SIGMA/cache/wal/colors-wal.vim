@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/mei/wallpaper/92592349_p0.jpg"
+let background = "#08080D"
+let foreground = "#d3dfeb"
+let cursor     = "#d3dfeb"
+
+" Colors
+let color0  = "#08080D"
+let color1  = "#4E5373"
+let color2  = "#975152"
+let color3  = "#38578E"
+let color4  = "#5D6A95"
+let color5  = "#7587B4"
+let color6  = "#99A5C5"
+let color7  = "#d3dfeb"
+let color8  = "#939ca4"
+let color9  = "#4E5373"
+let color10 = "#975152"
+let color11 = "#38578E"
+let color12 = "#5D6A95"
+let color13 = "#7587B4"
+let color14 = "#99A5C5"
+let color15 = "#d3dfeb"
