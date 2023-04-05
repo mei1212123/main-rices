@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/alice/wallpaper/ayaka_lumine_with_mask_4k_hd_genshin_impact-2560x1440.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#191319",
+        "foreground": "#e7e7e7",
+        "cursor": "#e7e7e7"
+    },
+    "colors": {
+        "color0": "#191319",
+        "color1": "#DEA061",
+        "color2": "#4C5896",
+        "color3": "#AAA19F",
+        "color4": "#8581AA",
+        "color5": "#F0DBA3",
+        "color6": "#C2B5C1",
+        "color7": "#e7e7e7",
+        "color8": "#a1a1a1",
+        "color9": "#DEA061",
+        "color10": "#4C5896",
+        "color11": "#AAA19F",
+        "color12": "#8581AA",
+        "color13": "#F0DBA3",
+        "color14": "#C2B5C1",
+        "color15": "#e7e7e7"
+    }
+}
