@@ -28,6 +28,8 @@ exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork
 
 exec --no-startup-id nm-applet
 
+
+
 # Use pactl to adjust volume in PulseAudio.
 set $refresh_i3status killall -SIGUSR1 i3status
 bindsym XF86AudioRaiseVolume exec --no-startup-id pactl set-sink-volume @DEFAULT_SINK@ +10% && $refresh_i3status
@@ -179,19 +181,11 @@ mode "resize" {
 
 bindsym $mod+r mode "resize"
 
-bindsym $mod+shift+q exec betterlockscreen -l blur
-
 # Start i3bar to display a workspace bar (plus the system information i3status
 # finds out, if available)
 exec_always --no-startup-id $HOME/.config/polybar/start.sh
 
-exec_always --no-startup-id $HOME/.screenlayout/screen.sh
-
 exec_always --no-startup-id xsetroot -cursor_name left_ptr
-
-exec_always --no-startup-id $HOME/Documents/important/PreMiD-Portable.AppImage --no-sandbox
-
-exec_always --no-startup-id xscreensaver
 
 #nitrogen
 exec nitrogen --restore
@@ -212,8 +206,6 @@ exec --no-startup-id flameshot
 
 exec --no-startup-id lxpolkit
 
-#exec --no-startup-id premid
+exec --no-startup-id premid
 
 exec --no-startup-id picom
-
-exec --no-startup-id betterlockscreen -l blur
