@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/mei/Pictures/Wallpaper/wallpapersden.com_war-devil-4k-chainsaw-man-digital-art_3840x2160.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0f0808",
+        "foreground": "#d5cdc7",
+        "cursor": "#d5cdc7"
+    },
+    "colors": {
+        "color0": "#0f0808",
+        "color1": "#FD3801",
+        "color2": "#A7582C",
+        "color3": "#DD541F",
+        "color4": "#A06F55",
+        "color5": "#CE934D",
+        "color6": "#6D7E83",
+        "color7": "#d5cdc7",
+        "color8": "#958f8b",
+        "color9": "#FD3801",
+        "color10": "#A7582C",
+        "color11": "#DD541F",
+        "color12": "#A06F55",
+        "color13": "#CE934D",
+        "color14": "#6D7E83",
+        "color15": "#d5cdc7"
+    }
+}
