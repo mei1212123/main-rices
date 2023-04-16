@@ -215,5 +215,3 @@ exec --no-startup-id lxpolkit
 #exec --no-startup-id premid
 
 exec --no-startup-id picom
-
-exec --no-startup-id betterlockscreen -l blur
