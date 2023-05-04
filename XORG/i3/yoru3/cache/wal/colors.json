@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/mei/Pictures/wallpaper/104580093_p0.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0b0a0a",
+        "foreground": "#d4d9d3",
+        "cursor": "#d4d9d3"
+    },
+    "colors": {
+        "color0": "#0b0a0a",
+        "color1": "#5A6A8E",
+        "color2": "#807F80",
+        "color3": "#6E8D9A",
+        "color4": "#8E8E8E",
+        "color5": "#9FA09F",
+        "color6": "#AFAFAF",
+        "color7": "#d4d9d3",
+        "color8": "#949793",
+        "color9": "#5A6A8E",
+        "color10": "#807F80",
+        "color11": "#6E8D9A",
+        "color12": "#8E8E8E",
+        "color13": "#9FA09F",
+        "color14": "#AFAFAF",
+        "color15": "#d4d9d3"
+    }
+}
