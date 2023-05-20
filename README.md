@@ -6,10 +6,10 @@ a complation of all of my rices
 sudo pacman -S gsfonts sdl_ttf ttf-bitstream-vera ttf-dejavu ttf-liberation xorg-fonts-type1
 ```
 ```
-sudo pacman -S ttf-fira-code ttf-fira-sans ttf-fira-mono ttf-font-awesome ttf-joypixels ttf-nerd-fonts-symbols-2048-em ttf-nerd-fonts-symbols-common noto-fonts noto-fonts-cjk 
+sudo pacman -S ttf-fira-code ttf-fira-sans ttf-fira-mono ttf-font-awesome ttf-joypixels ttf-nerd-fonts-symbols ttf-nerd-fonts-symbols-common noto-fonts noto-fonts-cjk 
 ```
 ```
-sudo pacman -S i3 alacritty polybar lxappearance lxsession pcmanfm nitrogen sxiv python-psutil papirus-icon-theme arandr dunst
+sudo pacman -S i3 alacritty polybar lxappearance lxsession thunar nitrogen sxiv python-psutil papirus-icon-theme arandr dunst picom
 ```
 
 CMD for yay: 
