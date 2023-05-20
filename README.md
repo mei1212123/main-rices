@@ -9,7 +9,7 @@ sudo pacman -S gsfonts sdl_ttf ttf-bitstream-vera ttf-dejavu ttf-liberation xorg
 sudo pacman -S ttf-fira-code ttf-fira-sans ttf-fira-mono ttf-font-awesome ttf-joypixels ttf-nerd-fonts-symbols ttf-nerd-fonts-symbols-common noto-fonts noto-fonts-cjk 
 ```
 ```
-sudo pacman -S i3 alacritty polybar lxappearance lxsession thunar nitrogen sxiv python-psutil papirus-icon-theme arandr dunst picom
+sudo pacman -S i3 alacritty polybar lxappearance lxsession thunar nitrogen sxiv python-psutil papirus-icon-theme arandr dunst picom rofi
 ```
 
 CMD for yay: 
