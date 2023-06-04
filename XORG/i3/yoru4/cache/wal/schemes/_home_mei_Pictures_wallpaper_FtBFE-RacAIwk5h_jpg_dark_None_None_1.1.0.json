@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/mei/Pictures/wallpaper/FtBFE-RacAIwk5h.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0b0c0b",
+        "foreground": "#cdcccb",
+        "cursor": "#cdcccb"
+    },
+    "colors": {
+        "color0": "#0b0c0b",
+        "color1": "#847A78",
+        "color2": "#84817E",
+        "color3": "#817F80",
+        "color4": "#989695",
+        "color5": "#9E9F9E",
+        "color6": "#A19C9B",
+        "color7": "#cdcccb",
+        "color8": "#8f8e8e",
+        "color9": "#847A78",
+        "color10": "#84817E",
+        "color11": "#817F80",
+        "color12": "#989695",
+        "color13": "#9E9F9E",
+        "color14": "#A19C9B",
+        "color15": "#cdcccb"
+    }
+}
