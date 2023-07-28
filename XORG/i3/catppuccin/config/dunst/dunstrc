@@ -1,7 +1,7 @@
 [global]
 frame_color = "#96CDFB"
 separator_color = frame
-font = SF Mono 12
+font = Fira Mono 12
 transparency = 15
 [urgency_low]
 background = "#1E1E2E"
