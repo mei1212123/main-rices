@@ -20,7 +20,7 @@ CMD for paru:
 ```
 paru -S matcha-gtk-theme autotiling mcmojave-cursors 
 ```
-CMDS for the AYAKA2 rice
+CMDS for the ayaka and cattppuccin rice
 ```
 yay -S catppuccin-gtk-theme-mocha autotiling mcmojave-cursors 
 ```
