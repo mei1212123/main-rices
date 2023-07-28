@@ -1,7 +1,7 @@
 configuration{
     modi: "run,drun,window";
     lines: 5;
-    font: "Fira Mono 14";
+    font: "Fira Sans 14";
     show-icons: true;
     icon-theme: "Oranchelo";
     terminal: "st";
