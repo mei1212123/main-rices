@@ -1,5 +1,5 @@
-# rices
-a complation of all of my rices
+# main-rices
+a complation of all of my main rices
 
 # important shit
 Fedora PKGS:
