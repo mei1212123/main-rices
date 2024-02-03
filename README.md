@@ -1,6 +1,5 @@
 # main-rices
-a compilation of all of my main rices
-
+my main rices
 # important shit
 Fedora PKGS:
 
