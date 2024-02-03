@@ -3,12 +3,14 @@ a compilation of all of my main rices
 
 # important shit
 Fedora PKGS:
+
 FONTS:
 ```
 sudo dnf install mozilla-fira-mono-fonts mozilla-fira-fonts-common mozilla-fira-sans-fonts 
 ```
 
 Arch PKGS:
+
 FONTS:
 ```
 sudo pacman -S ttf-fira-code ttf-fira-sans ttf-fira-mono ttf-font-awesome ttf-joypixels ttf-nerd-fonts-symbols ttf-nerd-fonts-symbols-common noto-fonts noto-fonts-cjk
