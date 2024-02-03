@@ -1,50 +1,26 @@
 # main-rices
-a complation of all of my main rices
+a compilation of all of my main rices
 
 # important shit
 Fedora PKGS:
-
+FONTS:
 ```
-COMING SOON
+sudo dnf install mozilla-fira-mono-fonts mozilla-fira-fonts-common mozilla-fira-sans-fonts 
 ```
 
 Arch PKGS:
-
-```
-sudo pacman -S gsfonts sdl_ttf ttf-bitstream-vera ttf-dejavu ttf-liberation xorg-fonts-type1
-```
+FONTS:
 ```
 sudo pacman -S ttf-fira-code ttf-fira-sans ttf-fira-mono ttf-font-awesome ttf-joypixels ttf-nerd-fonts-symbols ttf-nerd-fonts-symbols-common noto-fonts noto-fonts-cjk
 ```
+THEMES:
 ```
-sudo pacman -S i3 alacritty polybar lxappearance materia-gtk-theme lxsession thunar nitrogen sxiv python-psutil papirus-icon-theme arandr dunst picom rofi
+sudo pacman -S materia-gtk-theme papirus-icon-theme
 ```
-
-CMD for yay:
+AUR PKGS
 ```
-yay -S matcha-gtk-theme autotiling mcmojave-cursors
-```
-CMD for paru:
-```
-paru -S matcha-gtk-theme autotiling mcmojave-cursors
-```
-CMDS for the ayaka rice
-```
-yay -S catppuccin-gtk-theme-mocha autotiling mcmojave-cursors
+yay -S catppuccin-gtk-theme-frappe mcmojave-cursors matcha-gtk-theme
 ```
 ```
-paru -S catppuccin-gtk-theme-mocha autotiling mcmojave-cursors
-```
-# nvidia pkgs:
-```
-sudo pacman -S nvidia-dkms nvidia-utils lib32-nvidia-utils nvidia-settings vulkan-icd-loader lib32-vulkan-icd-loader
-```
-# AMD pkgs:
-RADV
-```
-sudo pacman -S xf86-video-amdgpu vulkan-radeon libva-mesa-driver mesa-vdpau lib32-vulkan-radeon vulkan-icd-loader lib32-vulkan-icd-loader
-```
-VLK
-```
-sudo pacman -S xf86-video-amdgpu amdvlk libva-mesa-driver mesa-vdpau lib32-amdvlk vulkan-icd-loader lib32-vulkan-icd-loader
+paru -S catppuccin-gtk-theme-frappe mcmojave-cursors matcha-gtk-theme
 ```
