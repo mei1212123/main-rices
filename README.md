@@ -1,13 +1,6 @@
 # main-rices
 my main rices
 # important shit
-Fedora PKGS:
-
-FONTS:
-```
-sudo dnf install mozilla-fira-mono-fonts mozilla-fira-fonts-common mozilla-fira-sans-fonts 
-```
-
 Arch PKGS:
 
 FONTS:
@@ -24,4 +17,10 @@ yay -S catppuccin-gtk-theme-frappe mcmojave-cursors matcha-gtk-theme
 ```
 ```
 paru -S catppuccin-gtk-theme-frappe mcmojave-cursors matcha-gtk-theme
+```
+Fedora PKGS:
+
+FONTS:
+```
+sudo dnf install mozilla-fira-mono-fonts mozilla-fira-fonts-common mozilla-fira-sans-fonts 
 ```
