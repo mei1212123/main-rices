@@ -2,4 +2,4 @@
 
 my main rices
 
-For packages visit https://github.com/mei10101/PKGS
+[For packages] (https://github.com/mei10101/PKGS)
