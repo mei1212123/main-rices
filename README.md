@@ -1,7 +1,7 @@
 # main-rices
 my main rices
-# important shit
-Arch PKGS:
+
+# Arch PKGS:
 
 FONTS:
 ```
@@ -18,7 +18,7 @@ yay -S catppuccin-gtk-theme-frappe mcmojave-cursors matcha-gtk-theme
 ```
 paru -S catppuccin-gtk-theme-frappe mcmojave-cursors matcha-gtk-theme
 ```
-Fedora PKGS:
+# Fedora PKGS:
 
 FONTS:
 ```
